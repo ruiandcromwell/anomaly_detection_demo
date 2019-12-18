@@ -7,7 +7,7 @@ from config import Config
 from utils import plot_anomaly
 
 
-DATASET_PATH = '/Users/wangrui/Documents/anomaly/datasets/'
+DATASET_PATH = '/Users/wangrui/Documents/anomaly_detection_demo/datasets/'
 
 
 def demo_anomaly(dataset, config=None):
